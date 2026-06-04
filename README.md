@@ -1,4 +1,4 @@
-# The Archive — Music School LMS
+# The Archive — Music School LMS (auto-deploy test 2026-06-04)
 
 > A full-stack Learning Management System built for The Archive Music School (Est. 1952). Features course management, live classes, Razorpay payments, certificate generation, analytics, and more — styled in a vintage academic aesthetic.
 
